@@ -54,7 +54,7 @@ Users can search shows, discover trending content, filter by genre and rating, v
 Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/tv-show-explorer.git
+git clone https://github.com/MuhammadTamami/movie-explorer-react.git
 ```
 
 Install dependencies
@@ -80,5 +80,5 @@ https://api.tvmaze.com
 ---
 
 # 📌 Author
-
+Built by Tama
 Built with ❤️ using React.
